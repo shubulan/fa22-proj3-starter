@@ -43,13 +43,13 @@
       <a name="font" val="SansSerif plain 12"/>
     </tool>
   </lib>
-  <lib desc="file#F:\cs61c\CS61C_FA22\fa22-proj3-starter\cpu\imm-gen.circ" name="6"/>
-  <lib desc="file#F:\cs61c\CS61C_FA22\fa22-proj3-starter\cpu\partial-store.circ" name="7"/>
-  <lib desc="file#F:\cs61c\CS61C_FA22\fa22-proj3-starter\cpu\branch-comp.circ" name="8"/>
-  <lib desc="file#F:\cs61c\CS61C_FA22\fa22-proj3-starter\cpu\alu.circ" name="9"/>
-  <lib desc="file#F:\cs61c\CS61C_FA22\fa22-proj3-starter\cpu\control-logic.circ" name="10"/>
-  <lib desc="file#F:\cs61c\CS61C_FA22\fa22-proj3-starter\cpu\partial-load.circ" name="11"/>
-  <lib desc="file#F:\cs61c\CS61C_FA22\fa22-proj3-starter\cpu\regfile.circ" name="12"/>
+  <lib desc="file#imm-gen.circ" name="6"/>
+  <lib desc="file#partial-store.circ" name="7"/>
+  <lib desc="file#branch-comp.circ" name="8"/>
+  <lib desc="file#alu.circ" name="9"/>
+  <lib desc="file#control-logic.circ" name="10"/>
+  <lib desc="file#partial-load.circ" name="11"/>
+  <lib desc="file#regfile.circ" name="12"/>
   <main name="cpu"/>
   <options>
     <a name="gateUndefined" val="ignore"/>
